@@ -34,3 +34,11 @@
 <a href="https://www.instagram.com/oznurrrkok/">
   <img align="left" alt="Öznur  | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br />
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Öznur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oznur-ceng&show_icons=true&hide_border=true&title_color=fff&theme=dark" />
+
+</details>
