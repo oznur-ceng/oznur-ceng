@@ -34,10 +34,10 @@
 
 
 <a href="https://www.linkedin.com/in/software-oznur/">
-  <img align="left" alt="Öznur | LinkedIn" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Öznur | LinkedIn" width="35px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/oznurrrkok/">
-  <img align="left" alt="Öznur  | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Öznur  | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 <br />
 <br />
