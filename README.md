@@ -8,7 +8,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and write code
 
+💬 Ask me about
 
+<p>I am currently working on object detection algorithms. I have done some web projects with Bootstrap. I always have a structure that likes to produce, develop and research.</p>
 
 
 
