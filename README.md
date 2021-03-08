@@ -38,7 +38,7 @@
   <img align="left" alt="Öznur | LinkedIn" width="35px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/oznurrrkok/">
-  <img align="left" alt="Öznur  | Instagram" width="35px" background-color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  <img align="left" alt="Öznur  | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 <br />
 <br />
