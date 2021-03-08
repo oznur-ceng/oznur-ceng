@@ -25,7 +25,8 @@
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C++" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />                   <img align="left" alt="OpenCv" width="45px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />                       
+<img align="left" alt="Bootstrap" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />                   <img align="left" alt="OpenCv" width="45px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />   
+<img align="left" alt="Scikit-Learn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />    
 <br />
 <br />
 
