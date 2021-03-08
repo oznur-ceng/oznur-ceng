@@ -38,12 +38,12 @@
   <img align="left" alt="Öznur | LinkedIn" width="35px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/oznurrrkok/">
-  <img align="left" alt="Öznur  | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  <img align="left" alt="Öznur  | Instagram" width="35px" background-color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 <br />
 <br />
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="Öznur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oznur-ceng&show_icons=true&hide_border=true&title_color=fff&theme=dark" />
 
