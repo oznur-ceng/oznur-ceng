@@ -1,7 +1,7 @@
 ### Hi there, I'm Öznur👋
 
 
-## I am a student at Karadeniz Technical University
+##I am a software engineer intern at NETAŞ
 - 💻 I work on deep learning algorithms.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
